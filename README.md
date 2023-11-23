@@ -6,6 +6,8 @@ use `degit bititude/nestjs-starter <your project folder name>` to clone the repo
 
 > run `npm install -g degit` to install degit
 
+_remember to change `name`, `author` and `description` fields in `package.json` accordingly_
+
 # Folder Structure
 
 # Environment variables
